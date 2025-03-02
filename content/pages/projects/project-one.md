@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/gallery-4.jpg
   altText: Project image
 ---
 <sup>Link</sup><https://cours-francais.netlify.app/>
